@@ -17,6 +17,13 @@
 ![two](img/four.png)
 ![one](img/five.png)
 
+## 🚀Intro
+```
+Using a resume builder makes the process of creating a resume significantly faster and easier. Ever tried building your resume with Word?
+The whole process is a huge pain – you make a TINY change to your resume, and the entire resume layout gets completely messed up.
+With a resume builder, you don’t have to worry about the nitty gritty of resume creation, like font selection, layout, formatting, etc.
+All you have to do is pick a resume template, fill it in, and then you’re ready to start applying for jobs!
+```
 
 ## 🚀Getting Started
 
