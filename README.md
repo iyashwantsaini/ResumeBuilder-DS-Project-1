@@ -30,7 +30,7 @@ All you have to do is pick a resume template, fill it in, and then you’re read
 #### Clone the repo
 
 ```
-git clone https://github.com/meyash/Vaartalaap.git
+git clone https://github.com/meyash/ResumeBuilder-DS-Project-1.git
 ```
 
 #### Install NPM packages
